@@ -1,0 +1,20 @@
+{
+    "name": "alexcuellar/numbertoletter",
+    "description": "",
+    "authors": [
+        {
+            "name": "Alexander Cuellar & Jorge Andrade",
+            "email": "alexcuellar@live.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "5.1.*|5.2.*",
+    },
+    "autoload": {
+        "psr-0": {
+            "Alexcuellar\\Numbertoletter": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
